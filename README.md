@@ -1,3 +1,3 @@
-#Events Project
+# Events Project
 
-###Using NextJS
+### Using NextJS
